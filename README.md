@@ -1,4 +1,4 @@
-# Weather Fetch App
+8u7392-4419-8758-5021-339# Weather Fetch App
 
 This is a weather fetch app built using React.js, Tailwind CSS, and Vite. This is my first project using these technologies. It allows users to fetch and view weather information based on their location or city input.
 
@@ -82,4 +82,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Contact
 
-For any inquiries or issues, please contact me at [riteshkumarkarn414@gmail.com](mailto:riteshkumarkarn414@gmail.com).
+For any inquiries, you can reach me at riteshkumarkarn414@gmail.com or connect with me on <a href="https://www.linkedin.com/in/ritesh-kumar-karn-ab90a9247/">LinkedIn</a>.

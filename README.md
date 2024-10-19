@@ -1,4 +1,4 @@
-8u7392-4419-8758-5021-339# Weather Fetch App
+# Weather Fetch App
 
 This is a weather fetch app built using React.js, Tailwind CSS, and Vite. This is my first project using these technologies. It allows users to fetch and view weather information based on their location or city input.
 

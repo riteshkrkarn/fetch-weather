@@ -2,6 +2,8 @@
 
 This is a weather fetch app built using React.js, Tailwind CSS, and Vite. This is my first project using these technologies. It allows users to fetch and view weather information based on their location or city input.
 
+![FetchWeather](https://github.com/user-attachments/assets/2e8557b8-b0df-4924-a2eb-88f63ea5eb17)
+
 ## Features
 
 - Fetches weather data from a weather API.

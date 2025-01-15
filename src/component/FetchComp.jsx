@@ -38,6 +38,12 @@ function FetchComp() {
     }
   }, [weatherData]);
 
+  const handleKeyPress = (e) => {
+    if (e.key === "Enter") {
+      fetchWeather(city);
+    }
+  };
+
   return (
     <>
       <div className="bg-[#3D34B1] flex flex-col w-4/5 md:w-2/5 mx-auto rounded-2xl text-white">
@@ -51,6 +57,7 @@ function FetchComp() {
               className="p-2 px-4 rounded-full md:w-1/2 text-black"
               value={city}
               onChange={handleCityChange}
+              onKeyDown={handleKeyPress}
             />
             <div
               className="bg-white rounded-full p-2 cursor-pointer"

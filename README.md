@@ -1,6 +1,6 @@
 # Weather Fetch App
 
-This is a weather fetch app built using React.js, Tailwind CSS, and Vite. This is my first project using these technologies. It allows users to fetch and view weather information based on their location or city input.
+This is a weather fetch app built using React.js, Tailwind CSS, and Vite. This is my first project using these technologies. It allows users to fetch and view weather information based on their location or city input. I also added the "Enter" button functionality to enhance the search experience.
 
 ![FetchWeather](https://github.com/user-attachments/assets/2e8557b8-b0df-4924-a2eb-88f63ea5eb17)
 
@@ -10,6 +10,7 @@ This is a weather fetch app built using React.js, Tailwind CSS, and Vite. This i
 - Displays current weather information and forecasts.
 - Responsive design using Tailwind CSS.
 - User-friendly interface with interactive elements.
+- Enter Button for Search
 
 ## Tech Stack
 
@@ -27,7 +28,7 @@ This is a weather fetch app built using React.js, Tailwind CSS, and Vite. This i
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/riteshkrkarn/fetch-weather
    ```
 
 2. **Navigate to the Project Directory:**

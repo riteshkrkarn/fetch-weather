@@ -10,7 +10,7 @@ This is a weather fetch app built using React.js, Tailwind CSS, and Vite. This i
 - Displays current weather information and forecasts.
 - Responsive design using Tailwind CSS.
 - User-friendly interface with interactive elements.
-- Enter Button for Search
+- Enter Button for Search.
 
 ## Tech Stack
 
